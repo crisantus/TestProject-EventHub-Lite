@@ -1,0 +1,272 @@
+[
+  {
+    "id": "101",
+    "title": "Tech Summit 2025",
+    "category": "Tech",
+    "startsAt": "2025-11-05T09:00:00Z",
+    "city": "Abuja",
+    "price": 20000,
+    "thumbnail": "https://picsum.photos/seed/evt_101/400/240"
+  },
+  {
+    "id": "102",
+    "title": "Designing for Impact",
+    "category": "Tech",
+    "startsAt": "2025-10-12T14:00:00Z",
+    "city": "Lagos",
+    "price": 15000,
+    "thumbnail": "https://picsum.photos/seed/evt_102/400/240"
+  },
+  {
+    "id": "103",
+    "title": "Business Growth Workshop",
+    "category": "Business",
+    "startsAt": "2025-12-01T10:00:00Z",
+    "city": "Port Harcourt",
+    "price": 25000,
+    "thumbnail": "https://picsum.photos/seed/evt_103/400/240"
+  },
+  {
+    "id": "104",
+    "title": "Health & Wellness Expo",
+    "category": "Health",
+    "startsAt": "2025-09-20T08:00:00Z",
+    "city": "Ibadan",
+    "price": 10000,
+    "thumbnail": "https://picsum.photos/seed/evt_104/400/240"
+  },
+  {
+    "id": "105",
+    "title": "Artisan Craft Fair",
+    "category": "Arts",
+    "startsAt": "2025-10-25T11:00:00Z",
+    "city": "Enugu",
+    "price": 5000,
+    "thumbnail": "https://picsum.photos/seed/evt_105/400/240"
+  },
+  {
+    "id": "101",
+    "title": "Tech Summit 2025",
+    "category": "Tech",
+    "startsAt": "2025-11-05T09:00:00Z",
+    "city": "Abuja",
+    "price": 20000,
+    "thumbnail": "https://picsum.photos/seed/evt_101/400/240"
+  },
+  {
+    "id": "102",
+    "title": "Designing for Impact",
+    "category": "Tech",
+    "startsAt": "2025-10-12T14:00:00Z",
+    "city": "Lagos",
+    "price": 15000,
+    "thumbnail": "https://picsum.photos/seed/evt_102/400/240"
+  },
+  {
+    "id": "103",
+    "title": "Business Growth Workshop",
+    "category": "Business",
+    "startsAt": "2025-12-01T10:00:00Z",
+    "city": "Port Harcourt",
+    "price": 25000,
+    "thumbnail": "https://picsum.photos/seed/evt_103/400/240"
+  },
+  {
+    "id": "104",
+    "title": "Health & Wellness Expo",
+    "category": "Health",
+    "startsAt": "2025-09-20T08:00:00Z",
+    "city": "Ibadan",
+    "price": 10000,
+    "thumbnail": "https://picsum.photos/seed/evt_104/400/240"
+  },
+  {
+    "id": "105",
+    "title": "Artisan Craft Fair",
+    "category": "Arts",
+    "startsAt": "2025-10-25T11:00:00Z",
+    "city": "Enugu",
+    "price": 5000,
+    "thumbnail": "https://picsum.photos/seed/evt_105/400/240"
+  },
+  {
+    "id": "101",
+    "title": "Tech Summit 2025",
+    "category": "Tech",
+    "startsAt": "2025-11-05T09:00:00Z",
+    "city": "Abuja",
+    "price": 20000,
+    "thumbnail": "https://picsum.photos/seed/evt_101/400/240"
+  },
+  {
+    "id": "102",
+    "title": "Designing for Impact",
+    "category": "Tech",
+    "startsAt": "2025-10-12T14:00:00Z",
+    "city": "Lagos",
+    "price": 15000,
+    "thumbnail": "https://picsum.photos/seed/evt_102/400/240"
+  },
+  {
+    "id": "103",
+    "title": "Business Growth Workshop",
+    "category": "Business",
+    "startsAt": "2025-12-01T10:00:00Z",
+    "city": "Port Harcourt",
+    "price": 25000,
+    "thumbnail": "https://picsum.photos/seed/evt_103/400/240"
+  },
+  {
+    "id": "104",
+    "title": "Health & Wellness Expo",
+    "category": "Health",
+    "startsAt": "2025-09-20T08:00:00Z",
+    "city": "Ibadan",
+    "price": 10000,
+    "thumbnail": "https://picsum.photos/seed/evt_104/400/240"
+  },
+  {
+    "id": "105",
+    "title": "Artisan Craft Fair",
+    "category": "Arts",
+    "startsAt": "2025-10-25T11:00:00Z",
+    "city": "Enugu",
+    "price": 5000,
+    "thumbnail": "https://picsum.photos/seed/evt_105/400/240"
+  },
+  {
+    "id": "101",
+    "title": "Tech Summit 2025",
+    "category": "Tech",
+    "startsAt": "2025-11-05T09:00:00Z",
+    "city": "Abuja",
+    "price": 20000,
+    "thumbnail": "https://picsum.photos/seed/evt_101/400/240"
+  },
+  {
+    "id": "102",
+    "title": "Designing for Impact",
+    "category": "Tech",
+    "startsAt": "2025-10-12T14:00:00Z",
+    "city": "Lagos",
+    "price": 15000,
+    "thumbnail": "https://picsum.photos/seed/evt_102/400/240"
+  },
+  {
+    "id": "103",
+    "title": "Business Growth Workshop",
+    "category": "Business",
+    "startsAt": "2025-12-01T10:00:00Z",
+    "city": "Port Harcourt",
+    "price": 25000,
+    "thumbnail": "https://picsum.photos/seed/evt_103/400/240"
+  },
+  {
+    "id": "104",
+    "title": "Health & Wellness Expo",
+    "category": "Health",
+    "startsAt": "2025-09-20T08:00:00Z",
+    "city": "Ibadan",
+    "price": 10000,
+    "thumbnail": "https://picsum.photos/seed/evt_104/400/240"
+  },
+  {
+    "id": "105",
+    "title": "Artisan Craft Fair",
+    "category": "Arts",
+    "startsAt": "2025-10-25T11:00:00Z",
+    "city": "Enugu",
+    "price": 5000,
+    "thumbnail": "https://picsum.photos/seed/evt_105/400/240"
+  },
+  {
+    "id": "101",
+    "title": "Tech Summit 2025",
+    "category": "Tech",
+    "startsAt": "2025-11-05T09:00:00Z",
+    "city": "Abuja",
+    "price": 20000,
+    "thumbnail": "https://picsum.photos/seed/evt_101/400/240"
+  },
+  {
+    "id": "102",
+    "title": "Designing for Impact",
+    "category": "Tech",
+    "startsAt": "2025-10-12T14:00:00Z",
+    "city": "Lagos",
+    "price": 15000,
+    "thumbnail": "https://picsum.photos/seed/evt_102/400/240"
+  },
+  {
+    "id": "103",
+    "title": "Business Growth Workshop",
+    "category": "Business",
+    "startsAt": "2025-12-01T10:00:00Z",
+    "city": "Port Harcourt",
+    "price": 25000,
+    "thumbnail": "https://picsum.photos/seed/evt_103/400/240"
+  },
+  {
+    "id": "104",
+    "title": "Health & Wellness Expo",
+    "category": "Health",
+    "startsAt": "2025-09-20T08:00:00Z",
+    "city": "Ibadan",
+    "price": 10000,
+    "thumbnail": "https://picsum.photos/seed/evt_104/400/240"
+  },
+  {
+    "id": "105",
+    "title": "Artisan Craft Fair",
+    "category": "Arts",
+    "startsAt": "2025-10-25T11:00:00Z",
+    "city": "Enugu",
+    "price": 5000,
+    "thumbnail": "https://picsum.photos/seed/evt_105/400/240"
+  },
+  {
+    "id": "101",
+    "title": "Tech Summit 2025",
+    "category": "Tech",
+    "startsAt": "2025-11-05T09:00:00Z",
+    "city": "Abuja",
+    "price": 20000,
+    "thumbnail": "https://picsum.photos/seed/evt_101/400/240"
+  },
+  {
+    "id": "102",
+    "title": "Designing for Impact",
+    "category": "Tech",
+    "startsAt": "2025-10-12T14:00:00Z",
+    "city": "Lagos",
+    "price": 15000,
+    "thumbnail": "https://picsum.photos/seed/evt_102/400/240"
+  },
+  {
+    "id": "103",
+    "title": "Business Growth Workshop",
+    "category": "Business",
+    "startsAt": "2025-12-01T10:00:00Z",
+    "city": "Port Harcourt",
+    "price": 25000,
+    "thumbnail": "https://picsum.photos/seed/evt_103/400/240"
+  },
+  {
+    "id": "104",
+    "title": "Health & Wellness Expo",
+    "category": "Health",
+    "startsAt": "2025-09-20T08:00:00Z",
+    "city": "Ibadan",
+    "price": 10000,
+    "thumbnail": "https://picsum.photos/seed/evt_104/400/240"
+  },
+  {
+    "id": "105",
+    "title": "Artisan Craft Fair",
+    "category": "Arts",
+    "startsAt": "2025-10-25T11:00:00Z",
+    "city": "Enugu",
+    "price": 5000,
+    "thumbnail": "https://picsum.photos/seed/evt_105/400/240"
+  }
+]

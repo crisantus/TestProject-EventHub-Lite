@@ -1,0 +1,9 @@
+{
+  "id": "101",
+  "title": "Tech Innovation Summit",
+  "description": "Explore cutting-edge technologies shaping the future.",
+  "venue": "Eko Hotel, Lagos",
+  "speakers": ["Chidi Okeke", "Ngozi Eze"],
+  "capacity": 500,
+  "remaining": 150
+}

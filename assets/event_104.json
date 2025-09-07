@@ -1,0 +1,9 @@
+{
+  "id": "104",
+  "title": "Creative Arts Workshop",
+  "description": "Hands-on session for budding artists and designers.",
+  "venue": "Terra Kulture, Lagos",
+  "speakers": ["Yemi Alade", "Kemi Adetiba"],
+  "capacity": 100,
+  "remaining": 20
+}
