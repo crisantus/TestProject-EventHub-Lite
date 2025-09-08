@@ -17,3 +17,5 @@ Ticket Purchase: Buy tickets or join a waitlist for events, with navigation to a
 Network Awareness: Displays network status (green for online, grey for offline) and refreshes connectivity on pull-to-refresh.
 
 Offline Support: Caches events and favorites in Hive for offline access.
+
+download the app from : https://drive.google.com/file/d/1p5t9DHz7ob1-tEiDPkrY9htFigBMsqP9/view?usp=sharing
